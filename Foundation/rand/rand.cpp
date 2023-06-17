@@ -33,7 +33,6 @@ OF THIS SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 #include "pch.h"
 #include <random>
 #include <chrono>
-#include "rand.h"
 
 float ZTORf()
 {
